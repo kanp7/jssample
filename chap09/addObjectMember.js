@@ -9,6 +9,6 @@ hanako.printScore();
 // hanakoオブジェクトのscienceプロパティに89を代入。
 hanako.science = 89;
 // hanakoオブジェクトのscienceプロパティを表示。
-console.log("は   q なこさんの理科の点: " + hanako.science);
+console.log("はなこさんの理科の点: " + hanako.science);
 // taroオブジェクトのscienceプロパティを表示。
 console.log("たろうさんの理科の点: " + taro.science);
